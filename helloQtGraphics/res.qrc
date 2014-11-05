@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>nave.png</file>
+    </qresource>
+</RCC>
